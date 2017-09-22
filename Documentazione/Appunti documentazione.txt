@@ -1,0 +1,55 @@
+Introduzione
+	Informazioni sul progetto			FATTO
+
+	Abstract
+
+	Scopo						FATTO
+
+Analisi
+	Analisi del dominio				FATTO
+
+	Analisi e specifica dei requisiti		FATTO
+	
+	Pianificazione					FATTO
+
+	Analisi dei mezzi				FATTO
+	
+		Software				FATTO
+
+		Hardware				FATTO
+
+Progettazione
+	Design dell'architettura del sistema
+
+	Design dei dati e database
+	
+	Design delle interfacce
+
+	Design procedurale
+
+Implementazione
+
+Test
+	Protocollo di test
+
+	Risultati test
+
+	Mancanze / limitazioni conosciute
+
+	
+Consuntivo
+
+Conclusioni
+	Sviluppi futuri
+
+	Considerazioni personali
+
+Bibliografia
+	Bibliografia per articoli di riviste
+
+	Bibliografia per libri
+
+	Sitografia
+
+Allegati
+	
