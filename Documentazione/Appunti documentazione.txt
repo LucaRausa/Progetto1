@@ -21,9 +21,9 @@ Analisi
 Progettazione
 	Design dell'architettura del sistema
 
-	Design dei dati e database
+	Design dei dati e database			FATTO
 	
-	Design delle interfacce
+	Design delle interfacce				FATTO
 
 	Design procedurale
 
