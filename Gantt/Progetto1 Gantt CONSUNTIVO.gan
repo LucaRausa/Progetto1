@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="Gantt Consuntivo" company="" webLink="http://" view-date="2017-10-07" view-index="0" gantt-divider-location="526" resource-divider-location="300" version="2.8.5" locale="it">
+<?xml version="1.0" encoding="UTF-8"?><project name="Gantt Consuntivo" company="" webLink="http://" view-date="2017-09-30" view-index="0" gantt-divider-location="526" resource-divider-location="300" version="2.8.5" locale="it">
     <description/>
     <view zooming-state="default:0" id="gantt-chart">
         <field id="tpd3" name="Nome" width="243" order="0"/>
         <field id="tpd4" name="Data d'inizio" width="140" order="1"/>
         <field id="tpd5" name="Data di fine" width="139" order="2"/>
-        <option id="color.recent"><![CDATA[#ffff00 #cc00cc #ff3300]]></option>
+        <option id="color.recent"><![CDATA[#3300ff #ffff00 #cc00cc #ff3300]]></option>
     </view>
     <view id="resource-table">
         <field id="0" name="Nome" width="210" order="0"/>
@@ -46,6 +46,9 @@
             <task id="19" name="Design Interfaccia" color="#ffff00" meeting="false" start="2017-09-22" duration="3" complete="0" expand="true"/>
             <task id="20" name="Design Architettura Web Server" color="#ffff00" meeting="false" start="2017-10-06" duration="1" complete="0" expand="true"/>
             <task id="30" name="Analisi formato dati" color="#ffff00" meeting="false" start="2017-10-06" duration="1" complete="0" expand="true"/>
+        </task>
+        <task id="31" name="Implementazione" meeting="false" start="2017-10-06" duration="1" complete="0" expand="true">
+            <task id="32" name="Creazione Virtual Machine" color="#3300ff" meeting="false" start="2017-10-06" duration="1" complete="0" expand="true"/>
         </task>
         <task id="21" name="Documentazione" color="#cc00cc" meeting="false" start="2017-09-01" duration="9" complete="0" expand="true"/>
         <task id="24" name="Consegna Progetto" color="#000000" meeting="true" start="2017-10-27" duration="0" complete="0" expand="true"/>
